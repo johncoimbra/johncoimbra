@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning more Java/Kotlin, Android, Design Patterns, Software Architecture(MVVM), REST APIs.
 - 💙 In love with coding.
 - 💻 Techs: Kotlin, Java, SQLite.
-- 🌍 Languages: Portuguese Fluent, English Basic.
+- 🌍 Languages: Portuguese Fluent, English intermediary.
 - 💬 Ask me about new technologies, libs, Android, Java/Kotlin.
 
 Let's connect on LinkedIn.
