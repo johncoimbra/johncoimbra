@@ -6,9 +6,9 @@
 
 - 📚 Android Developer Student at UDEMY.
 - 🏢 I’m currently a Support Analyst at SICREDI.
-- 🌱 I’m currently learning more Java/Kotlin, Android, Design Patterns, Software Architecture(MVVM), REST APIs.
+- 🌱 I’m currently learning more Java/Kotlin, Android Jetpack, Design Patterns, Software Architecture(MVVM), REST APIs.
 - 💙 In love with coding.
-- 💻 Techs: Kotlin, Java, SQLite.
+- 💻 Techs: Kotlin, Java, SQLite, Room, Retrofit.
 - 🌍 Languages: Portuguese Fluent, English Intermediary.
 - 💬 Ask me about new technologies, libs, Android, Java/Kotlin.
 
