@@ -12,3 +12,5 @@
 - 💬 Ask me about new technologies, CocoaPods, Xcode, Swift, SwiftUI.
 
 Let's connect on LinkedIn.
+
+https://github-readme-stats.vercel.app/api?username=johncoimbra&theme=blue-green
