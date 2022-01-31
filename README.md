@@ -13,6 +13,6 @@
 
 Let's connect on LinkedIn.
 
-<a href="https://github.com/johncoimbra
+<a href="https://github.com/johncoimbra">
   <img align="center" height="220" src="https://github-readme-stats.vercel.app/api?username=johncoimbra&theme=blue-green" alt="John Coimbra GitHub Stats" />
 </a>
